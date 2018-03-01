@@ -13,4 +13,5 @@ else
 {
 printf("POSITIVE");
 }
+return 0;
 }
